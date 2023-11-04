@@ -11,7 +11,7 @@
   <a href="https://medium.com/@eupmrt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="eupmrt@gmail.com" target="_blank">
+  <a href="mailto:eupmrt@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/eupmrt/" target="_blank">
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm An iOS developer who loves to learn, teach, and have fun 🥳<br><br>- 🔭 I’m working on the Essential Developers Program.<br>- 📚 I'm currently learning unit tests, architectural best practices.<br>- ⚡ In my free time I write articles about Swift programming language.</p>
+<p align="left">I'm An iOS developer who loves to learn, teach, and have fun 🥳<br><br>- 🔭 I’m working on the Essential Developers Program to become a true senior developer.<br>- 📚 I'm learning unit tests, architectural approaches, and best practices.<br>- ⚡ In my free time I write articles about the Swift programming language, ride a motorcycle, and exercise.</p>
 
 ###
 
@@ -59,22 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=eupmrt&theme=prussian" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=merteyup&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
